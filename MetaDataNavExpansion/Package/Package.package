@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9750a683-a58a-4295-8020-2526325c2ff2" solutionId="9750a683-a58a-4295-8020-2526325c2ff2" resetWebServer="false" name="WireBear.MetaDataNavExpansion" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="2299b280-c98d-42cf-ad28-2cbb7b00de69" />
+  </features>
+</package>
