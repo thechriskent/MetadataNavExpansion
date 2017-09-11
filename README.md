@@ -10,7 +10,7 @@ This solution does 2 things:
 ### Here's what it looks like on initial page load
 | Standard: | With MetaDataNavExpansion: |
 ----- | -----
-|!(./BeforeMetaDataNavExpansion.PNG)|!(./AfterMetaDataNavExpansion.PNG)|
+|![Before](./BeforeMetaDataNavExpansion.PNG)|![After](./AfterMetaDataNavExpansion.PNG)|
 | _"Der... What do I do?"_ | _"WOWEE! This site is amazing!"_ |
 
 ## Benefits:
